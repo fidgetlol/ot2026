@@ -1,0 +1,28 @@
+#+title: October
+
+* suncor energy v county commissioners of boulder county // https://www.scotusblog.com/cases/suncor-energy-inc-v-county-commissioners-of-boulder-county/
+- Boulder Colorado sued various energy companies in state court for their contributions to climate change. Boulder argues that the energy companies knowingly contributed to climate change by working with fossil fuels. Those actions constitute public nuisance, private nuisance, trespass, unjust enrichment, and civil conspiracy. The energy companies moved to dismiss, arguing that Colorado exceeds its power in seeking releif from out of state conduct. The state court denied the motion and the Colorado Supreme Court affirmed. Now the energy companies appeal to SCOTUS.
+** Is the suit precluded by federal law?
+- By joining the union states accepted limits on sovereignty and application of the law. States cannot apply their local laws to conduct in beyond its borders. Air and water are shared natural resources and so must be governed by a shared national law.
+- The Clean Air Act is the shared national law, a "comprehensive satutory scheme". The Clean Air Act does not authorize state common-law suits like this one. Before the Clean Air Act federal common law blocked this suit--the Clean Air Act can't be read to extend State law in this way.
+- Interstate emmissions are inherently federal. Because the emissions that damaged Colorado happended globally, Colorado law cannot reach them.
+- This suit intrudes on the federal government's control of foreign affairs. Having states go after the energy industry would get in the way of the federal government handing this global challenge.
+- The EPA controls emissions standards under the Clean Air Act. This suit allows Colorado to impose emissions standards in violation of the Clean Air Act.
+
+- State tort law reaches beyond state borders. When a product causes harm in one state the manufacturer isn't immune because it's in another state. Libel or internet fraud can originate anywhere in the country and still be heard in state court. The Consitution does not "silently forbid[] the practice". Congress can displace these state laws but they did not do so here.
+- Federal common law didn't bar this suit. Federal common law was displaced by the Clean Air Act anyway. The Clean Air Act is concerned with regulation of emmitters, not with civil damages caused by them. This suit only asks for money, it's not seeking to impose any regulations or controls that could conflict with the Clean Air Act.
+- Colorado law does not intrude on foreign affairs. The government failed to show a conflict with any "statute, self-executing treaty, or executive agreement." The generalized concerns expressed cannot alone displace state law.
+- Congress can and is considering immunizing emitters from this type of suit. They have not done so.
+** Does the court have jurisdiction?
+- The dismissal below is not an Article 3 injury. Continued litigation is not an Article 3 injury. Petitioners must wait for a final judgement.
+
+- The Colorado Supreme Court actually ruled on an order to show cause which is a self contained proceeding. That proceeding was terminated with the decision below. The termination of a self contained original proceeding in a state's court of last resort is appealable under 1257(a).
+- The order to show cause was an interlocutory appeal. Colorado can name it an original proceeding but the label doesn't make it apealable. The nature of the proceeding determines whether it's a "final judgement in a self contained original proceeding" not a label.
+
+* Johnson v United States Congress // https://www.scotusblog.com/cases/johnson-v-united-states-congress/
+- Floyd Johnson was in the US army from 1983 to 1985. In 2013 Johnson was sentenced to 40 years in Florida prison. While incarcerated Johnson was diagnosed with PTSD and applied for VA benefits. His benefits were reduced because the VA caps benefits for incarcerated vetrens. Johnson sued Congress pro se alledging violating the bill of attainder clause and the 5th amendment's equal protection clause. The District court dismissed the suit. On appeal to the 11th circuit Johnson was appointed council. The 11th circuit concluded that the suit is barred by sovereign immunity and that Johnson must follow the statutory review scheme. Johnson now appeals to SCOTUS.
+** Does the Veterens' Judicial Review Act strip district courts of the jurisdiction to hear constitutional challenges to VA benefits?
+- Johnson v Robinson established that courts can hear constitutional challenges to veterens benefits statutes even when the statute strips the court from jurisdiction to challenge benefits decisions.
+- Petitioner argues that Congress kept the language at issue in Robinson and so kept the legal regieme it established. Veterens can challenge constitutionality of benefits statutes but cannot challenge benefits decision.
+- Also the statutory review scheme directs Johnson to appeal to the Board of Veterens' Appeals which cannot review constitutional claims. This makes sense, the BVA is for challenging benefits decisions which isn't what Peitioner is trying to do.
+- The government argues that Robinson is no longer relevant. The previous statutory regieme didn't include an apellete process so federal court was the only place. Now that the BVA exsists all challenges must go there.
